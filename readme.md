@@ -7,25 +7,25 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[contributors-shield]: https://img.shields.io/github/contributors/kiran-karandikar/AML-Cats-Dog-Classifier?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/kiran-karandikar/Cats-Dog-Classifier?style=for-the-badge
 
-[contributors-url]: https://github.com/Kiran-Karandikar/AML-Cats-Dog-Classifier/graphs/contributors
+[contributors-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/Kiran-Karandikar/AML-Cats-Dog-Classifier?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
 
-[forks-url]: https://github.com/Kiran-Karandikar/AML-Cats-Dog-Classifier/network
+[forks-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/network
 
-[stars-shield]: https://img.shields.io/github/stars/Kiran-Karandikar/AML-Cats-Dog-Classifier?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
 
-[stars-url]: https://github.com/Kiran-Karandikar/AML-Cats-Dog-Classifier/stargazers
+[stars-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/Kiran-Karandikar/AML-Cats-Dog-Classifier?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
 
-[issues-url]: https://github.com/Kiran-Karandikar/AML-Cats-Dog-Classifier/issues
+[issues-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/issues
 
-[license-shield]: https://img.shields.io/github/license/Kiran-Karandikar/AML-Cats-Dog-Classifier?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
 
-[license-url]: https://github.com/Kiran-Karandikar/AML-Cats-Dog-Classifier/blob/master/LICENSE
+[license-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/blob/master/LICENSE
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
@@ -37,23 +37,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">Cats and Dog Classifier</h3>
+<h3 align="center">Cats-Dog-Classifier</h3>
   <p align="center">
-    Create an algorithm to distinguish dogs from cats<a href="https://www.kaggle.com/c/dogs-vs-cats"><strong>[Kaggle Challenge]</strong></a>
+    Create an algorithm to distinguish dogs from cats    
+    <br />    
+    <a href="https://kiran-karandikar.github.io/Cats-Dog-Classifier"><strong>Preview</strong></a>
     <br />
-    <a href="https://kiran-karandikar.github.io/AML-Cats-Dog-Classifier/"><strong>Preview</strong></a>
-    <br />
-    <a href="https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/kiran-karandikar/Cats-Dog-Classifier"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://kiran-karandikar.github.io/AML-Cats-Dog-Classifier/">View Demo</a>
+    <a href="https://github.com/kiran-karandikar/Cats-Dog-Classifier">View Demo</a>
     ·
-    <a href="https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier/issues">Report Bug</a>
+    <a href="https://github.com/kiran-karandikar/Cats-Dog-Classifier/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier/issues">Request Feature</a>
+    <a href="https://github.com/kiran-karandikar/Cats-Dog-Classifier/issues">Request Feature</a>
   </p>
 </div>
 
+<!-- BADGES.MD Finish -->
 <!-- BADGES.MD Finish -->
 
 
@@ -135,3 +136,25 @@ Project
 Link: [https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier](https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Other projects
+
+Check out the other stuff I've worked upon.
+
+- ___AI/ML/Data Science___
+
+  - **AML-Home-Credit-Default-Risk** : [Predicting how capable each applicant is of repaying a loan \(Kaggle Challenge\).](https://github.com/Kiran-Karandikar/AML-Home-Credit-Default-Risk)
+
+  - **Exercise-performance-analysis** : [Prototype exercise volume prediction using machine learning models.](https://github.com/Kiran-Karandikar/Exercise-performance-analysis)
+
+- ___Web Development___
+
+  - **flask-app-template** : [Simple, reusable, minimalistic, configurable flask app.](https://github.com/Kiran-Karandikar/flask-app-template)
+
+  - **flask-oauth2-wrike-api** : [A sample Flask app to authenticate with Wrike as a third-party OAuth2 provider.](https://github.com/Kiran-Karandikar/flask-oauth2-wrike-api)
+
+> Section `Other projects` is auto-updated using [Github actions](https://github.com/features/actions). 
+<!-- CONTACT -->
+## Contact
+
+- [Kiran Karandikar: khkarandikar at gmail dot com](mailto:khkarandikar@gmail.com)
