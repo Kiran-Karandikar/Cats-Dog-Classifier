@@ -138,6 +138,7 @@ Link: [https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier](https://gith
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
 ### Other projects
 
 Check out the other stuff I've worked upon.
@@ -158,4 +159,4 @@ Check out the other stuff I've worked upon.
 <!-- CONTACT -->
 ## Contact
 
-- [Kiran Karandikar: khkarandikar at gmail dot com](mailto:khkarandikar@gmail.com)
+- [Kiran Karandikar:](mailto:connect.funnel.github@kirankarandikar.com)
