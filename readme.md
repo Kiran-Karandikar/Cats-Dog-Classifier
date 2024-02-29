@@ -8,31 +8,19 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [contributors-shield]: https://img.shields.io/github/contributors/kiran-karandikar/Cats-Dog-Classifier?style=for-the-badge
-
 [contributors-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/graphs/contributors
-
 [forks-shield]: https://img.shields.io/github/forks/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
-
 [forks-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/network
-
 [stars-shield]: https://img.shields.io/github/stars/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
-
 [stars-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/stargazers
-
 [issues-shield]: https://img.shields.io/github/issues/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
-
 [issues-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/issues
-
 [license-shield]: https://img.shields.io/github/license/Kiran-Karandikar/Cats-Dog-Classifier?style=for-the-badge
-
 [license-url]: https://github.com/Kiran-Karandikar/Cats-Dog-Classifier/blob/master/LICENSE
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
 [linkedin-url]: https://linkedin.com/in/kiran-karandikar
 
----------
-
+---
 
 <!-- PROJECT LOGO -->
 <br />
@@ -123,24 +111,28 @@ Distributed under the `MIT License`. See [LICENSE](LICENSE) file for more inform
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+
 ### Other projects
 
 Check out the other stuff I've worked upon.
 
-- ___AI/ML/Data Science___
+- **_AI/ML/Data Science_**
 
   - **AML-Home-Credit-Default-Risk** : [Predicting how capable each applicant is of repaying a loan \(Kaggle Challenge\).](https://github.com/Kiran-Karandikar/AML-Home-Credit-Default-Risk)
 
   - **Exercise-performance-analysis** : [Prototype exercise volume prediction using machine learning models.](https://github.com/Kiran-Karandikar/Exercise-performance-analysis)
 
-- ___Web Development___
+- **_Web Development_**
 
   - **flask-app-template** : [Simple, reusable, minimalistic, configurable flask app.](https://github.com/Kiran-Karandikar/flask-app-template)
 
   - **flask-oauth2-wrike-api** : [A sample Flask app to authenticate with Wrike as a third-party OAuth2 provider.](https://github.com/Kiran-Karandikar/flask-oauth2-wrike-api)
 
-> Section `Other projects` is auto-updated using [Github actions](https://github.com/features/actions). 
+> Section `Other projects` is auto-updated using [Github actions](https://github.com/features/actions).
+
 <!-- CONTACT -->
+
 ## Contact
 
 - [Kiran Karandikar:](mailto:connect.funnel.github@kirankarandikar.com)
+
