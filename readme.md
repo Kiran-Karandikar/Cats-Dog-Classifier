@@ -123,22 +123,6 @@ Distributed under the `MIT License`. See [LICENSE](LICENSE) file for more inform
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGMENTS -->
-
-
-<!-- CONTACT -->
-
-## Contact
-
-- [Kiran Karandikar](mailto:hkarandikar@gmail.com)
-
-Project
-Link: [https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier](https://github.com/kiran-karandikar/AML-Cats-Dog-Classifier)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Other projects
 
 Check out the other stuff I've worked upon.
